@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ff5ffa</color>
+
+    <color name="colorPrimary">#8bc340</color>
+    <color name="colorPrimaryAccent">#65913e</color>
+
+    <color name="colorSecondary">#334184</color>
+    <color name="colorSecondaryAccent">#a42317</color>
+
+    <color name="colorThird">#928409</color>
+    <color name="colorThirdAccent">#6B1D0D</color>
+
+    <color name="holo_red_dark">#CC0001</color>
+    <color name="holo_blue_dark">#0099CB</color>
+</resources>

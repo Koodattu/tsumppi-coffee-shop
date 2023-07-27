@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Tsumppi</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_catalog">Catalog</string>
+    <string name="nav_more">More</string>
+    <string name="follow_us_on_some">Follow us on social media for news and more!</string>
+    <string name="home_new_items_title">New Items</string>
+    <string name="home_new_items_desc">Check the new arrivals!</string>
+    <string name="home_sale_items_title">Sale Items</string>
+    <string name="home_sale_items_desc">Check the items on sale!</string>
+    <string name="send_feedback">Feedback</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+</resources>

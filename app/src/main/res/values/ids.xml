@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="catalog_category_item_id" type="id" />
+    <item name="product_item_id" type="id" />
+    <item name="more_item_id" type="id" />
+    <item name="home_deals_item_id" type="id" />
+    <item name="home_news_item_id" type="id" />
+    <item name="home_social_media_item_id" type="id" />
+</resources>

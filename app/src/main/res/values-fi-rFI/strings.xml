@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home">Koti</string>
+    <string name="nav_catalog">Katalogi</string>
+    <string name="nav_more">Lisää</string>
+    <string name="follow_us_on_some">Seuraa meitä somessa!</string>
+    <string name="home_new_items_title">Uutuudet</string>
+    <string name="home_new_items_desc">Tsekkaa uudet tuotteet!</string>
+    <string name="home_sale_items_title">Tarjoukset</string>
+    <string name="home_sale_items_desc">Tsekkaa alennustuotteet!</string>
+    <string name="send_feedback">Palaute</string>
+    <string name="about">Tietoja</string>
+    <string name="settings">Asetukset</string>
+</resources>
